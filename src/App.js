@@ -6,8 +6,8 @@ function App(){
   if (!localStorage.getItem('username')) return <LoginForm />;
     return(
       <ChatEngine 
-      height="100vh"
-      projectID="1ab4ce76-1881-498b-83b8-cc6a23eaad7e" 
+      height= "100vh"
+      projectID= "1ab4ce76-1881-498b-83b8-cc6a23eaad7e" 
       userName={localStorage.getItem('username')}
       userSecret={localStorage.getItem('password')}
       renderChatFeed={(chatAppProps)=><ChatFeed {...chatAppProps} />}
