@@ -1,3 +1,6 @@
+You can visit the deployed site on https://chat-app-d.netlify.app/ 
+To get login credentials , contact me - diptiimee@gmail.com
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
